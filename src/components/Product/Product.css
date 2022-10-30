@@ -47,6 +47,10 @@
     justify-content: center;
 }
 
+.btn-text {
+    margin-right: 8px;
+}
+
 .btn-cart:hover {
     background-color: rgb(76, 238, 68);
 }
